@@ -2,9 +2,9 @@
 <manifest>
   <remote name="houji-github" fetch="ssh://git@github.com/" pushurl="ssh://git@github.com/" />
   <remote name="houji-clo" fetch="https://git.codelinaro.org/clo/la/" />
-  <project name="SM8650Dev/android_kernel_xiaomi_houji" path="kernel/xiaomi/houji" remote="houji-github" revision="a0d6eaa498690a4802dc6ae515b1ded332c36b2b" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji" path="kernel/xiaomi/houji" remote="houji-github" revision="bfc196507d03a2ffe632fa3e99c5b22c67d37a00" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-devicetrees" path="kernel/xiaomi/houji-devicetrees" remote="houji-github" revision="21b686ad96050799a38d22a42e7fa6d768189cdf" upstream="lineage-23.2" />
-  <project name="SM8650Dev/android_kernel_xiaomi_houji-camera" path="kernel/xiaomi/houji-modules/camera" remote="houji-github" revision="8bc77cef0cc5835826b6c959ec1c42a7b40eeb9e" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-camera" path="kernel/xiaomi/houji-modules/camera" remote="houji-github" revision="836600b55b3b87dc225bb1f25eb4e51e39a5d52f" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-camera-devicetree" path="kernel/xiaomi/houji-modules/camera-devicetree" remote="houji-github" revision="a659ac0f7627ff900fc12a86321fb1e368e1b444" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-display" path="kernel/xiaomi/houji-modules/display" remote="houji-github" revision="e2502335231dfce169bd76d3e3a9215e2047e0a5" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-wlan" path="kernel/xiaomi/houji-modules/wlan" remote="houji-github" revision="19082ed19706eb3a09474d6545802b4eb83f0613" upstream="lineage-23.2" />
@@ -18,8 +18,8 @@
   <project name="SM8650Dev/android_kernel_xiaomi_houji-dsp-kernel" path="kernel/xiaomi/houji-modules/dsp-kernel" remote="houji-github" revision="5035fd89e5750335adda86f922c9e4a5558b55c1" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-bt-kernel" path="kernel/xiaomi/houji-modules/bt-kernel" remote="houji-github" revision="4b9b1f48312fd25579609fb2b06a104cc21be56c" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-touch" path="kernel/xiaomi/houji-modules/houji-touch" remote="houji-github" revision="ee7ca515dd84bb695189c6c92ca47ba1085470ae" upstream="lineage-23.2" />
-  <project name="SM8650Dev/android_kernel_xiaomi_houji-multimedia" path="kernel/xiaomi/houji-modules/oneplus-sm8650" remote="houji-github" revision="09812ee73dfb0c7c6683de804436998a89ed0fbf" upstream="lineage-23.2" />
-  <project name="SM8650Dev/android_device_xiaomi_houji" path="device/xiaomi/houji" remote="houji-github" revision="01fd7b251826a88b00fae50325281b78cbef36b6" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-multimedia" path="kernel/xiaomi/houji-modules/oneplus-sm8650" remote="houji-github" revision="94b31e2798747358b08a9a7a64e0a2fd92462df7" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_device_xiaomi_houji" path="device/xiaomi/houji" remote="houji-github" revision="7e79cc3d2406099a0e3918454c26f778c93d01fd" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_device_xiaomi_sm8650-common" path="device/xiaomi/sm8650-common" remote="houji-github" revision="cc1dcac3ad2ff3b327218caf14b58b29652c6ccd" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_vendor_xiaomi_houji" path="vendor/xiaomi/houji" remote="houji-github" revision="99e7410e3f78cbb5b192d93f7f8f1466c379b48d" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_vendor_xiaomi_sm8650-common" path="vendor/xiaomi/sm8650-common" remote="houji-github" revision="8f6c507d1f96aa2f7e865fd22a36e1bf4e5ad0be" upstream="lineage-23.2" />
