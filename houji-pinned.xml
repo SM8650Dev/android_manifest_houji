@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="houji-github" fetch="ssh://git@github.com/" pushurl="ssh://git@github.com/" />
+  <remote name="houji-clo" fetch="https://git.codelinaro.org/clo/la/" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji" path="kernel/xiaomi/houji" remote="houji-github" revision="a0d6eaa498690a4802dc6ae515b1ded332c36b2b" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-devicetrees" path="kernel/xiaomi/houji-devicetrees" remote="houji-github" revision="21b686ad96050799a38d22a42e7fa6d768189cdf" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-camera" path="kernel/xiaomi/houji-modules/camera" remote="houji-github" revision="8bc77cef0cc5835826b6c959ec1c42a7b40eeb9e" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-camera-devicetree" path="kernel/xiaomi/houji-modules/camera-devicetree" remote="houji-github" revision="a659ac0f7627ff900fc12a86321fb1e368e1b444" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-display" path="kernel/xiaomi/houji-modules/display" remote="houji-github" revision="e2502335231dfce169bd76d3e3a9215e2047e0a5" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-wlan" path="kernel/xiaomi/houji-modules/wlan" remote="houji-github" revision="19082ed19706eb3a09474d6545802b4eb83f0613" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-securemsm-kernel" path="kernel/xiaomi/houji-modules/securemsm-kernel" remote="houji-github" revision="9e59bd33d930b0e54311669395e82edb33b882b5" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-dataipa" path="kernel/xiaomi/houji-modules/dataipa" remote="houji-github" revision="1ba0b3eaa5cd3eff54379bce5706cf9b2a8688d9" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-datarmnet" path="kernel/xiaomi/houji-modules/datarmnet" remote="houji-github" revision="e474af33b721f3ede78e864280bed7e68d68bc89" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-datarmnet-ext" path="kernel/xiaomi/houji-modules/datarmnet-ext" remote="houji-github" revision="9fbc4e161c4aaf8061dd50725f7bd8bec56dcbc5" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-mm-drivers" path="kernel/xiaomi/houji-modules/mm-drivers" remote="houji-github" revision="0fe0de65b077ff4323875590bdb2682d432dd753" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-mmrm-driver" path="kernel/xiaomi/houji-modules/mmrm-driver" remote="houji-github" revision="81c87bf166c84a80f11a5295ebf6b8d157f78bda" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-synx-kernel" path="kernel/xiaomi/houji-modules/synx-kernel" remote="houji-github" revision="c666244cc8309eff321ff83220c14bc5f3b67d72" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-dsp-kernel" path="kernel/xiaomi/houji-modules/dsp-kernel" remote="houji-github" revision="5035fd89e5750335adda86f922c9e4a5558b55c1" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-bt-kernel" path="kernel/xiaomi/houji-modules/bt-kernel" remote="houji-github" revision="4b9b1f48312fd25579609fb2b06a104cc21be56c" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-touch" path="kernel/xiaomi/houji-modules/houji-touch" remote="houji-github" revision="ee7ca515dd84bb695189c6c92ca47ba1085470ae" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_kernel_xiaomi_houji-multimedia" path="kernel/xiaomi/houji-modules/oneplus-sm8650" remote="houji-github" revision="09812ee73dfb0c7c6683de804436998a89ed0fbf" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_device_xiaomi_houji" path="device/xiaomi/houji" remote="houji-github" revision="01fd7b251826a88b00fae50325281b78cbef36b6" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_device_xiaomi_sm8650-common" path="device/xiaomi/sm8650-common" remote="houji-github" revision="cc1dcac3ad2ff3b327218caf14b58b29652c6ccd" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_vendor_xiaomi_houji" path="vendor/xiaomi/houji" remote="houji-github" revision="99e7410e3f78cbb5b192d93f7f8f1466c379b48d" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_vendor_xiaomi_sm8650-common" path="vendor/xiaomi/sm8650-common" remote="houji-github" revision="8f6c507d1f96aa2f7e865fd22a36e1bf4e5ad0be" upstream="lineage-23.2" />
+  <project name="MiCode/vendor_qcom_proprietary_display-devicetree" path="kernel/xiaomi/houji-modules/display-devicetree" remote="houji-github" revision="fade75a43279e91a83060a68612d872ab2dcc086" upstream="shennong-u-oss" />
+  <project name="platform/vendor/qcom/opensource/spu-kernel" path="kernel/xiaomi/houji-modules/spu-kernel" remote="houji-clo" revision="8209e34e04c393339b8ca49f8f9b9feae3f0908d" upstream="spu-kernel.lnx.1.0.r1-rel" />
+  <project name="lolipuru/android_hardware_xiaomi" path="hardware/xiaomi" remote="houji-github" revision="69ec6aee6584f5e2937669b5bbfee2853a2bdf59" upstream="lineage-23.2" />
+</manifest>
