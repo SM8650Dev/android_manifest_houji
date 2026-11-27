@@ -19,7 +19,7 @@
   <project name="SM8650Dev/android_kernel_xiaomi_houji-bt-kernel" path="kernel/xiaomi/houji-modules/bt-kernel" remote="houji-github" revision="4b9b1f48312fd25579609fb2b06a104cc21be56c" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-touch" path="kernel/xiaomi/houji-modules/houji-touch" remote="houji-github" revision="26830c469e6d88f12d4b11e0d491d6237bd0b7e1" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_kernel_xiaomi_houji-multimedia" path="kernel/xiaomi/houji-modules/oneplus-sm8650" remote="houji-github" revision="c2fbf78e3627886f2e57b00a916db0ae3ec308c1" upstream="lineage-23.2" />
-  <project name="SM8650Dev/android_device_xiaomi_houji" path="device/xiaomi/houji" remote="houji-github" revision="0c4c5b58a645e5983f9652f4b52b236686510476" upstream="lineage-23.2" />
+  <project name="SM8650Dev/android_device_xiaomi_houji" path="device/xiaomi/houji" remote="houji-github" revision="b234f93b2de9a593c304e7734e9d0632f28eef8f" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_device_xiaomi_sm8650-common" path="device/xiaomi/sm8650-common" remote="houji-github" revision="c830dba5ae2fa80c206ab322ab961fdf4b9501bc" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_vendor_xiaomi_houji" path="vendor/xiaomi/houji" remote="houji-github" revision="99e7410e3f78cbb5b192d93f7f8f1466c379b48d" upstream="lineage-23.2" />
   <project name="SM8650Dev/android_vendor_xiaomi_sm8650-common" path="vendor/xiaomi/sm8650-common" remote="houji-github" revision="68e8ac46d1049a7f33bdcf3c19df27f0983a57af" upstream="lineage-23.2" />
